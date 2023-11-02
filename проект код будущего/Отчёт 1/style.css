@@ -1,0 +1,126 @@
+.header {
+    height: 110px;
+    border-bottom: 1px solid #A1A6B4;
+}
+
+.nav-item {
+    font-family: 'Anonymous Pro', monospace;
+    font-size: 20px;
+    font-weight: 700;
+    color: #000;
+    text-decoration: none;
+    margin-right: 24px;
+}
+
+.nav-item3 {
+    margin-right: 0;
+}
+
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1160px;
+    margin: 0 auto;
+}
+
+.main {
+    background-color: #F1F1F1;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container2 {
+    margin: 0 auto;
+}
+
+.main-title {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 48px;
+    font-weight: 500;
+    margin-bottom: 24px;
+    margin-top: 25px;
+}
+
+.cross-line {
+    display: flex;
+    margin-bottom: 24px;
+    width: 100%;
+    align-items: baseline;
+}
+
+.cross {
+    background-color: #fff;
+    border-radius: 12px;
+    margin-right: 24px;
+}
+
+.cross3 {
+    margin-right: 0;
+}
+
+.cross-img {
+    margin-bottom: 32px;
+}
+
+.name-title {
+    font-family: 'Anonymous Pro', monospace;
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.name-main {
+    font-family: 'Anonymous Pro', monospace;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 32px;
+}
+
+.name-text {
+    margin-left: 24px;
+}
+
+.footer {
+    height: 142px;
+    background-color: #121723;
+}
+
+.container3 {
+    height: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid rgba(230, 232, 236, 0.4);
+    max-width: 1160px;
+    margin: 0 auto;
+}
+
+.nav-items {
+    display: flex;
+    list-style: none;
+}
+
+.footer-item {
+    font-family: 'Anonymous Pro', monospace;
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-right: 24px;
+
+}
+
+.footer-bottom {
+    font-family: 'Anonymous Pro', monospace;
+    font-size: 16px;
+    font-weight: 700;
+    color: #A1A6B4;
+    text-align: center;
+    margin-top: 18px;
+}
